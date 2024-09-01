@@ -1,0 +1,7 @@
+
+-------IGNORAR CARPETAS-------
+.vscode/
+-------IGNORAR ARCHIVOS-------
+ignorar.txt
+-------IGNORAR VARIOS ARCHIVOS-------
+*.PY
